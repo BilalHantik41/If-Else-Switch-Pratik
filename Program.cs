@@ -19,11 +19,11 @@ namespace ifElseSwitch
         {   // Meyve seçeneklerini tutan sözlük (anahtar: sıra numarası, değer: meyve adı)
             var MeyveListesi = new Dictionary<int, string>
             {
-                { 1, "Elma " },
-                { 2, "Armut " },
-                { 3, "Çilek " },
-                { 4, "Muz" },
-                { 5, "DiğerBütünMeyveler"}
+                { 1, "Elma = 2 TL " },
+                { 2, "Armut =  3 TL " },
+                { 3, "Çilek =  2 TL " },
+                { 4, "Muz = 3 TL" },
+                { 5, "DiğerBütünMeyveler = 2 TL"}
 
                 
             };    

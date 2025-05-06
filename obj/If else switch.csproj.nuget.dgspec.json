@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Patika+ C#\\If-Else-Pratik\\If else switch\\If else switch.csproj": {}
+    "C:\\Users\\Administrator\\Patika+ C#\\If-Else-Pratik\\If else switch\\If-Else-Switch-Pratik\\If else switch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Patika+ C#\\If-Else-Pratik\\If else switch\\If else switch.csproj": {
+    "C:\\Users\\Administrator\\Patika+ C#\\If-Else-Pratik\\If else switch\\If-Else-Switch-Pratik\\If else switch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Patika+ C#\\If-Else-Pratik\\If else switch\\If else switch.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Patika+ C#\\If-Else-Pratik\\If else switch\\If-Else-Switch-Pratik\\If else switch.csproj",
         "projectName": "If else switch",
-        "projectPath": "C:\\Users\\Administrator\\Patika+ C#\\If-Else-Pratik\\If else switch\\If else switch.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Patika+ C#\\If-Else-Pratik\\If else switch\\If-Else-Switch-Pratik\\If else switch.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Patika+ C#\\If-Else-Pratik\\If else switch\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Patika+ C#\\If-Else-Pratik\\If else switch\\If-Else-Switch-Pratik\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
