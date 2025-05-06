@@ -13,7 +13,8 @@ namespace ifElseSwitch
 
         }
         
-
+        
+        
         
         static void MeyveListesi() // Meyve Listesini oluşturduk
         {   // Meyve seçeneklerini tutan sözlük (anahtar: sıra numarası, değer: meyve adı)
@@ -47,6 +48,44 @@ namespace ifElseSwitch
                  Console.WriteLine(" Geçersiz seçim. Program sonlaniyor.");
                 return;
             }
+
+        /*
+            // Seçime göre if-else yapısıyla fiyat bilgisi göster
+        if (secim == 1)
+        {
+            // Elma
+            Console.WriteLine("→ Seçtiğiniz Meyvenin fiyatı 2 TL'dir.");
+        }
+        else if (secim == 2)
+        {
+            // Armut
+            Console.WriteLine("→ Seçtiğiniz Meyvenin fiyatı 3 TL'dir.");
+        }
+        else if (secim == 3)
+        {
+            // Çilek
+            Console.WriteLine("→ Seçtiğiniz Meyvenin fiyatı 2 TL'dir.");
+        }
+        else if (secim == 4)
+        {
+            // Muz
+            Console.WriteLine("→ Seçtiğiniz Meyvenin fiyatı 3 TL'dir.");
+        }
+        else if (secim == 5)
+        {
+            // Diğer Bütün Meyveler
+            Console.WriteLine("→ Seçtiğiniz Meyvenin fiyatı 2 TL'dir.");
+        }
+        else
+        {
+            // Mantıksal olarak buraya girilmez, ama güvenlik için ekledik
+            Console.WriteLine("Yanlış bir işlem yaptınız.");
+        }
+            */
+           
+        
+
+
             // Geçerli seçim için fiyat bilgisini göster
             switch (secim)
             {
@@ -83,3 +122,6 @@ namespace ifElseSwitch
     }
     
 }
+
+//switch ise tek bir blok içinde bütün “durum–işlem” çiftlerini listeler; yeni bir seçenek eklemek veya sıralamayı görmek çok daha hızlıdır.
+//Kodunuzu okuyan veya sonraki bir bakım geliştiricisinden, “diğer tüm durumlar buraya mı geliyor?” gibi sorular gelebilir. switch’te default bloğu net bir “kalan tüm durumlar” belirtisidir; if–else’te ise son bir else bazen eksik veya yanıltıcı olabilir.
