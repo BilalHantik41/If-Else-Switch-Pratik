@@ -91,21 +91,21 @@ namespace ifElseSwitch
             {
                 case 1:
                     // Elma seçildiğinde fiyat 2 TL
-                    Console.WriteLine("→Seçtiğiniz Meyvenin fiyati 2 TL'dir. ");
+                    Console.WriteLine("→Elma'nin fiyati 2 TL'dir. ");
                     break;
                 case 2:
                     // Armut seçildiğinde fiyat 3 TL
-                    Console.WriteLine("→ Seçtiğiniz Meyvenin fiyati 3 TL'dir.");
+                    Console.WriteLine("→ Armut'un fiyati 3 TL'dir.");
                     
                     break;
                 case 3:
                     // Çilek seçildiğinde fiyat 2 TL
-                    Console.WriteLine("→ Seçtiğiniz Meyvenin fiyati 2 TL'dir.");
+                    Console.WriteLine("→ Çilek'in fiyati 2 TL'dir.");
                   
                     break;
                 case 4:
                     // Muz seçildiğinde fiyat 3 TL
-                    Console.WriteLine("→ Seçtiğiniz Meyvenin fiyati 3 TL'dir.");
+                    Console.WriteLine("→ Muz'un fiyati 3 TL'dir.");
                     break;
 
                 case 5:
